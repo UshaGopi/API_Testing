@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Calculator">C:/Users/GopiUshaKiran/Desktop/API Testing/Calculator-soapui-project.xml</con:project>
+  <con:project name="Ecommerce">C:/Users/GopiUshaKiran/Desktop/API Testing/Ecommerce-soapui-project.xml</con:project>
+  <con:project name="Ecommerce_Mocking_Demo">C:/Users/GopiUshaKiran/Desktop/API Testing/Ecommerce-Mocking-Demo-soapui-project.xml</con:project>
+  <con:project name="Ecommerce_Groovy">C:/Users/GopiUshaKiran/Desktop/API Testing/Shared Folders/resources/Ecommerce-Groovy-soapui-project.xml</con:project>
+  <con:project name="Add&amp;Delete Places JSON REST">C:/Users/GopiUshaKiran/Desktop/API Testing/Add-Delete-Places-JSON-REST-soapui-project.xml</con:project>
+  <con:project name="Ecommerce_Service (REST Methods)">C:/Users/GopiUshaKiran/Desktop/API Testing/Ecommerce-Service--REST-Methods--soapui-project.xml</con:project>
+  <con:project name="Add&amp;Delete Places XML REST">C:/Users/GopiUshaKiran/Desktop/API Testing/Add-Delete-Places-XML-REST-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
